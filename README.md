@@ -107,13 +107,13 @@ Segmentación de formatos de fechas completas utilizando delimitadores comunes (
 - Soporte para secuencias de escape **ANSI** en terminal (Linux, MacOS, o Windows Terminal).
 
 ``` text
-#1. Clonar el repositorio de forma local
-git clone [https://github.com/k1ngve/gengar-se-tool.git](https://github.com/k1ngve/gengar-se-tool.git)
+# 1. Clonar el repositorio de forma local usando tu enlace real
+git clone https://github.com/k1ngve/GENGAR-SOCIAL-ENGINEERING-TOOL-v5.8.git
 
-#2. Acceder al directorio del proyecto
-cd gengar-se-tool
+# 2. Acceder al directorio exacto de tu proyecto
+cd GENGAR-SOCIAL-ENGINEERING-TOOL-v5.8
 
-#3. Lanzar la consola interactiva del Gengar Engine
+# 3. Lanzar la consola interactiva del Gengar Engine
 python gengar.py
 ```
 ## ⚠️ 5. Código de Ética y Descargo de Responsabilidad (Disclaimer)
